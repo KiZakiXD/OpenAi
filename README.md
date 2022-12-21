@@ -50,7 +50,7 @@ pkg install nodejs git yarn
 git clone https://github.com/KiZakiXD/OpenAi
 cd OpenAi
 yarn
-npm start
+node .
 ```
 
 ## Edit file
