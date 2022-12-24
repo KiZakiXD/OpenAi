@@ -36,6 +36,7 @@
 * Maaf jika belum sempurna, karena Ai masih dalam tahap beta
 * Web Login : https://beta.openai.com/login/
 * Ambil Apikey : https://beta.openai.com/account/api-keys
+* Masih G Paham ? Cek Video : https://youtu.be/dJ_5pCx9ScE
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
