@@ -32,7 +32,7 @@
 ---
 
 ## Information
-* Berikut adalah sebuah program dari Ai yang di buat menjadi program bit whatsapp nodejs
+* Berikut adalah sebuah program dari Ai yang di buat menjadi program bot whatsapp nodejs
 * Maaf jika belum sempurna, karena Ai masih dalam tahap beta
 * Web Login : https://beta.openai.com/login/
 * Ambil Apikey : https://beta.openai.com/account/api-keys
